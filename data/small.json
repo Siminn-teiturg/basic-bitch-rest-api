@@ -1,0 +1,117 @@
+  [
+    {
+      "id": "5a0967cfbe261f444ee9137c",
+      "title": "Stella Blómkvist",
+      "titlePrefix": "",
+      "posters_old": {
+        "portrait": "/images/a23617fe1c03fa1784ee8b5adc694774.jpg",
+        "landscape": "/images/7d6c5b82b0d6e13eda8164846b135f13.jpg"
+      },
+      "posters": {
+        "backdrop": "/ik/images/b1ddf3a9e6248bb882c0e3bc9ed4933b.png",
+        "portrait": "/ik/images/a23617fe1c03fa1784ee8b5adc694774.jpg",
+        "landscape": "/ik/images/7d6c5b82b0d6e13eda8164846b135f13.jpg"
+      },
+      "images": [
+        {
+          "type": "backdrop",
+          "url": "/ik/images/b1ddf3a9e6248bb882c0e3bc9ed4933b.png"
+        },
+        {
+          "type": "portrait",
+          "url": "/ik/images/a23617fe1c03fa1784ee8b5adc694774.jpg"
+        },
+        {
+          "type": "landscape",
+          "url": "/ik/images/7d6c5b82b0d6e13eda8164846b135f13.jpg"
+        }
+      ],
+      "numSeasons": 1,
+      "seriesInDate": "2017-11-24T08:40:34.302Z",
+      "latestSeasonInDate": "2017-11-24T08:40:34.302Z",
+      "latestEpisodeInDate": "2018-02-16T00:00:00.000Z",
+      "imdbRating": 8.4,
+      "genres": [
+        "Drama"
+      ],
+      "provider": "SVP",
+      "hasNextEpisode": true
+    },
+    {
+      "id": "5a0ab88987dedd6702a81b87",
+      "title": "9JKL",
+      "titlePrefix": "",
+      "posters_old": {
+        "portrait": "/images/f33cacb4e7329f89ba8a1ece933fa109.jpg",
+        "landscape": "/images/61749c926915638e19eef89d73bf2d46.jpg"
+      },
+      "posters": {
+        "backdrop": "/ik/images/bb706efcfd95e9a072ecee82f117049e.jpg",
+        "portrait": "/ik/images/f33cacb4e7329f89ba8a1ece933fa109.jpg",
+        "landscape": "/ik/images/61749c926915638e19eef89d73bf2d46.jpg"
+      },
+      "images": [
+        {
+          "type": "backdrop",
+          "url": "/ik/images/bb706efcfd95e9a072ecee82f117049e.jpg"
+        },
+        {
+          "type": "portrait",
+          "url": "/ik/images/f33cacb4e7329f89ba8a1ece933fa109.jpg"
+        },
+        {
+          "type": "landscape",
+          "url": "/ik/images/61749c926915638e19eef89d73bf2d46.jpg"
+        }
+      ],
+      "numSeasons": 1,
+      "seriesInDate": "2017-10-03T06:00:00.000Z",
+      "latestSeasonInDate": "2017-10-03T06:00:00.000Z",
+      "latestEpisodeInDate": "2018-02-06T06:00:00.000Z",
+      "imdbRating": 5,
+      "genres": [
+        "Gaman"
+      ],
+      "provider": "SVP"
+    },
+    {
+      "id": "5a0ab88987dedd6702a81b89",
+      "title": "90210",
+      "titlePrefix": "",
+      "posters_old": {
+        "portrait": "/images/a8699635ebcba9c57adf2a85d098e0fc.jpg",
+        "landscape": "/images/5ccc090ec88b0aeb81d7c10f7c137759.jpg"
+      },
+      "posters": {
+        "backdrop": "/ik/images/a26b3bc9c9f121e94ece2b35cf2a7061.jpg",
+        "portrait": "/ik/images/a8699635ebcba9c57adf2a85d098e0fc.jpg",
+        "landscape": "/ik/images/5ccc090ec88b0aeb81d7c10f7c137759.jpg"
+      },
+      "images": [
+        {
+          "type": "backdrop",
+          "url": "/ik/images/a26b3bc9c9f121e94ece2b35cf2a7061.jpg"
+        },
+        {
+          "type": "portrait",
+          "url": "/ik/images/a8699635ebcba9c57adf2a85d098e0fc.jpg"
+        },
+        {
+          "type": "landscape",
+          "url": "/ik/images/5ccc090ec88b0aeb81d7c10f7c137759.jpg"
+        }
+      ],
+      "numSeasons": 5,
+      "seriesInDate": "2017-04-11T06:00:05.236Z",
+      "latestSeasonInDate": "2017-12-12T05:15:24.112Z",
+      "latestEpisodeInDate": "2017-12-12T05:15:24.112Z",
+      "imdbRating": 6.1,
+      "genres": [
+        "Drama",
+        "Rómans",
+        "Sápuópera"
+      ],
+      "provider": "SVP",
+      "hasNextEpisode": true
+    }
+  ]
