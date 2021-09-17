@@ -1,1 +1,1 @@
-Basic Bitch REST API með ExpressJS
+Basic Bitch REST API með ExpressJS sem leitar í gögnum með Fuse.js (fuzzy search)
