@@ -1,7 +1,7 @@
 import express from 'express';
 import axios from 'axios';
 import Fuse from 'fuse.js';
-import data from './../data/movies.json';
+import data from './../data/small.json';
 
 const app = express();
 const PORT = 8080;
